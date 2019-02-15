@@ -5,7 +5,7 @@ const {Todo}= require('./../server/models/todo');
 const {User} = require('./../server/models/user');
 
 // var id = '5c67242a2463483831438e63'; //id ToDo
-var id = '5c672ed8aa4d49442d83762c';
+var id = '5c672ed8aa4d49442d83762c'; //user id
 
 //if id is not valid
 
